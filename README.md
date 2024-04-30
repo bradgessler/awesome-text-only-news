@@ -8,6 +8,7 @@
 
 ## Plain Text News Sites
 
+- [Legible News](https://legiblenews.cpm) - Daily and weekly top headline summaries in text format on the web and email
 - [68k News](http://68k.news) - Headlines from various news sources in a simple text format
 - [CNN Lite](https://lite.cnn.com/en) - Lightweight version of CNN with top news stories
 - [CBC Lite](https://www.cbc.ca/lite/) - Canadian Broadcasting Corporation's lightweight news site
